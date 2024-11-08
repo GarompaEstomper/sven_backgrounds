@@ -20,4 +20,9 @@ CREDITS:
 PREVIEWS:
 =======================================================================
 
-![resource/background_players/preview_players.jpg]
+![background_players](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background_players/preview_players.jpg)
+![background13](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background13/preview_13.jpg)
+![background19](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background19/preview_19.jpg)
+![background20](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background20/preview_20.jpg)
+![background30](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background30/preview_30.jpg)
+![background40](https://github.com/GarompaEstomper/sven_backgrounds/blob/main/resource/background40/preview_40.jpg)
