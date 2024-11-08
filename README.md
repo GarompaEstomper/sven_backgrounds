@@ -8,13 +8,17 @@ INSTALLATION:
 - Drop the /resource/ folder into your steamapps/Sven Co-op/svencoop_hd  or  /svencoop_addon  folder
 - Choose one of the numbered background folders and rename it to just: background
 - Take your pick, each background is a remake of the old Sven Co-op menu backgrounds from each version up to version 4.0. All of them have a preview image so you can see what it looks like off-game
-- The 4.0 background is the original but enhanced version of it, and has no preview (it looks the same as we know it)
+- The extra _players background is a custom one many people liked and was modified through requests to include Miku, Shroom, and Red massn from BM_STS
+- The 4.0 background is the original but HD version of it
 
 
 CREDITS:
 =======================================================================
 
-- Garompa (all me)
+- Garompa (all remakes)
+- Darren Geers (https://www.deviantart.com/darrengeers/art/Early-Gordon-Freeman-aka-IVAN-THE-SPACE-BIKER-425203728)
+- Deadsoul (hatsune miku render)
+- Whoever made the original backgrounds these are based on
 
 
 PREVIEWS:
