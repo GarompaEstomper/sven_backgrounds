@@ -18,6 +18,7 @@ CREDITS:
 - Garompa (all remakes)
 - Darren Geers (https://www.deviantart.com/darrengeers/art/Early-Gordon-Freeman-aka-IVAN-THE-SPACE-BIKER-425203728)
 - Deadsoul (hatsune miku render)
+- Sniper (original 3.0 background)
 - Whoever made the original backgrounds these are based on
 
 
